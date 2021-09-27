@@ -14,4 +14,6 @@ Suppose you are invited to pay to play a game, let you in a box containing 100 b
 
 The most you are willing to spend is __________ yuan.
 
-The risk avoidance coefficient can be calculated by filling in the blanks. Then calculate the mean of risk aversion coefficient of all samples, and the samples with greater than the mean score 0, and the samples with less than the mean score 3. The total score of all questions is the risk preference degree of the respondents, and the range is [0,21].
+The risk avoidance coefficient can be calculated by filling in the blanks. R_i{(W}_i)=(2500-2H_i)/(3125000-2500H_i+\ {H_i}^2) 
+
+Then calculate the mean of risk aversion coefficient of all samples, and the samples with greater than the mean score 0, and the samples with less than the mean score 3. The total score of all questions is the risk preference degree of the respondents, and the range is [0,21].
