@@ -6,7 +6,7 @@ The document contains data from a survey of stock market investors. The data inc
 
 The degree of overconfidence of investors can be expressed by dividing the difference between subjective financial literacy and objective financial literacy by the ratio of objective financial literacy, namely:
 
-{\rm over}_i=\frac{{sub}_i-{ob}_i}{{ob}_i}
+{over}_i=\dfrac{{sub}_i-{ob}_i}{{ob}_i}
 
 2. In order to fully reflect investors' appetite for risk, we designed six multiple choice questions to directly or indirectly test investors' risk attitude and one fill-in-the-blank question based on absolute risk aversion index. Among them, each multiple choice question is assigned 3, 2, 1 and 0 points according to the response from risk preference to risk aversion according to the option setting. Fill in the blanks as follows:
 3. 
